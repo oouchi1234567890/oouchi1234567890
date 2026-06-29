@@ -1,16 +1,110 @@
-## Hi there 👋
+# はじめまして、大内です
 
-<!--
-**oouchi1234567890/oouchi1234567890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+業務システムの運用・保守経験を活かしながら、
+現在はJavaとPythonを中心にシステム開発を学習しています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 自己紹介
+
+これまで、業務システムの運用・保守、問い合わせ対応、
+障害対応、システム更改支援などに携わってきました。
+
+現在は職業訓練で、Java・Pythonによるシステム開発を学習しています。
+これまでの運用経験と開発技術を組み合わせ、
+安定したシステムの開発・運用に貢献することを目指しています。
+
+---
+
+## 経験
+
+- 業務システムの運用・保守
+- 利用者からの問い合わせ対応
+- 障害発生時の調査・対応
+- 仕様書・設計書・運用手順書の更新
+- 外部ベンダーとの調整
+- システム更改支援
+- Javaを使用した開発・テスト
+- 単体テストおよびテスト仕様書の作成
+
+---
+
+## 学習中の技術
+
+### プログラミング言語
+
+- Java
+- Python
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+### フレームワーク・ライブラリ
+
+- Spring Boot
+- Servlet / JSP
+- JDBC
+
+### データベース
+
+- MySQL
+- MariaDB
+- H2 Database
+- SQLite
+- Oracle Database
+
+### 開発環境・ツール
+
+- Eclipse
+- Visual Studio Code
+- Git
+- GitHub
+- Maven
+- Tomcat
+- Docker
+- Linux
+- VirtualBox
+
+---
+
+## 現在取り組んでいること
+
+- Javaのオブジェクト指向
+- クラス・継承・インターフェース
+- 例外処理
+- コレクション
+- ラムダ式とStream API
+- Spring BootによるWebアプリケーション開発
+- JDBCによるデータベース接続
+- HTML・CSS・JavaScriptによる画面作成
+- GitとGitHubによるソースコード管理
+
+---
+
+## 制作物
+
+### Javaインベーダーゲーム
+
+Javaを使用して作成しているインベーダーゲームです。
+
+主な学習内容：
+
+- クラス設計
+- オブジェクト指向
+- キーボード入力
+- 画像表示
+- 当たり判定
+- ファイル操作
+
+制作物は随時更新しています。
+
+---
+
+## 今後の目標
+
+- JavaとSpring Bootを使用したWebアプリケーションの完成
+- Pythonを使用したアプリケーション開発
+- データベースを利用したCRUD機能の実装
+- Dockerを使用した開発環境の構築
+- 運用・保守経験を活かせる開発業務への参加
