@@ -134,4 +134,4 @@ JavaScriptを使用して作成しているシューティングゲームです�
 - データベースを利用したCRUD機能の実装
 - Dockerを使用した開発環境の構築
 - 運用・保守経験を活かせる業務への参加
-- AWSでZabbixとRedmineの環境の構築（過去作成済み）
+- AWSでZabbixとRedmineの環境の構築
