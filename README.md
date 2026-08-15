@@ -151,5 +151,32 @@ JavaScriptを使用して作成しているシューティングゲームです�
 
 ## GitHub プロファイルを使用しての自己紹介について
 
- - [GitHubドキュメント](https://docs.github.com/en/account-and-profile/concepts/personal-profile)
- - [GitHubドキュメント ja](https://docs.github.com/ja/account-and-profile/concepts/personal-profile)
+このプロフィールは、GitHub公式ドキュメント「GitHub プロファイルを使用して履歴書を強化する」を参考に、就職活動用として整理しています。
+
+GitHub公式では、採用担当者が技術や経験を把握しやすくなるよう、プロフィールを次のように整えることを推奨しています。
+
+- 自分の経歴や希望職種を簡潔に紹介する
+- 使用できるプログラミング言語、フレームワーク、ツールを記載する
+- 代表的なプロジェクトを3～5件選び、プロフィールにピン留めする
+- プロジェクトの目的、主な機能、使用技術をREADMEで説明する
+- セットアップ方法、実行方法、デモ、テスト方法を記載する
+- 分かりやすいファイル名と一貫性のあるコーディングスタイルを使用する
+- 複雑な処理には適切なコメントやドキュメントを用意する
+- テストを追加し、コードが正しく動作することを確認する
+- 使用しているライブラリや依存関係を適切に管理する
+- 履歴書や職務経歴書からGitHubプロフィールへアクセスできるようにする
+
+### Official GitHub Documentation
+
+- [日本語：GitHub プロファイルを使用して履歴書を強化する](https://docs.github.com/ja/account-and-profile/tutorials/using-your-github-profile-to-enhance-your-resume)
+- [English: Using your GitHub profile to enhance your resume](https://docs.github.com/en/account-and-profile/tutorials/using-your-github-profile-to-enhance-your-resume)
+
+---
+
+This profile has been organized for job applications with reference to GitHub’s official guide, “Using your GitHub profile to enhance your resume.”
+
+The official guide recommends providing a concise professional introduction, presenting relevant technical skills, highlighting three to five representative projects, and making each project easy for hiring managers to understand. Project documentation should explain its purpose, main features, technologies, setup process, usage, demonstrations, and testing instructions.
+
+The repositories presented here are maintained with attention to readability, consistent coding style, documentation, testing, and dependency management.
+
+*This section summarizes the recommendations in the official GitHub documentation. It is not an official statement or certification from GitHub.*
