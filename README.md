@@ -149,8 +149,8 @@ JavaScriptを使用して作成しているシューティングゲームです�
 
 出典：[paiza プログラミングスキルチェック](https://paiza.jp/challenges/info)
 
-https://x.com/stuff_shin/status/1936768409594970619
+- [x](https://x.com/stuff_shin/status/1936768409594970619)
 
 ## GitHub プロファイルを使用しての自己紹介について
 
-https://docs.github.com/ja/account-and-profile/tutorials/using-your-github-profile-to-enhance-your-resume
+ - [GitHubドキュメント](https://paiza.jp/challenges/info)
