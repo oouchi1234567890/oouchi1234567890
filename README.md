@@ -1,6 +1,9 @@
 # はじめまして、大内です
 
-[日本語](README.md) | [English](README_EN.md)
+<p align="center">
+  <a href="README.md"><img alt="日本語" src="https://img.shields.io/badge/Language-日本語-222222?style=flat-square&logo=github" /></a>
+  <a href="README_EN.md"><img alt="English" src="https://img.shields.io/badge/Language-English-0A84FF?style=flat-square&logo=github" /></a>
+</p>
 
 業務システムの運用・保守経験を活かしながら、
 現在はJavaとPythonを中心にシステム開発を学習しています。
