@@ -101,12 +101,12 @@
 - Sun SJC-A SJC-P（2010年6月）
 - JASA　情報セキュリティ監査アソシエイト（2014年6月）
 
-## 資格の取り直し（2026年6月～）
+## 資格取り直し予定（2026年6月～）
 
 - ITパスポート（2026年7月）
-- 基本情報技術者試験(FE)（2026年  9月予定）
+- 基本情報技術者試験(FE)（2026年  9月）
 - 情報セキュリティマネジメント試験(SG)（2026年9月予定）
-- Linux Professional Institute LPIC-1 LPIC-2（2026年9月予定） LPIC-3（2026年10月以降で順次）
+- Linux Professional Institute LPIC-1 LPIC-2 LPIC-3（2026年10月以降で順次）
 - Java SE Bronze(1Z0-818-JPN) Java SE 17 Programmer I (1Z0-825-JPN)（2026年10月以降で順次）
 
 ---
