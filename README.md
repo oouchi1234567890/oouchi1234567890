@@ -1,188 +1,161 @@
-# はじめまして、大内です
+# はじめまして、大内です 👋
 
 <p align="center">
   <a href="README.md"><img alt="日本語" src="https://img.shields.io/badge/Language-日本語-222222?style=flat-square&logo=github" /></a>
   <a href="README_EN.md"><img alt="English" src="https://img.shields.io/badge/Language-English-0A84FF?style=flat-square&logo=github" /></a>
 </p>
 
-業務システムの運用・保守経験を活かしながら、
-現在はJavaとPythonを中心にシステム開発を学習しています。
+**業務システムの運用・保守経験 × Java / Python による開発スキル**で、
+「作って終わり」ではなく、**安定して動き続けるシステム**づくりに取り組んでいます。
+
+- 🛠 業務システムの運用・保守、障害対応、システム更改支援の実務経験
+- 💼 2026年10月から派遣社員として就業中
+- ☕ 職業訓練で Java（Servlet/JSP・Spring Boot）と Python を学び、制作物を GitHub で公開
+- 📜 2026年に ITパスポート・基本情報技術者（FE）を取得
+- 🔧 現場の「ちょっと面倒」を道具にして解決するのが好きです
 
 ---
 
 ## 自己紹介
 
-これまで、業務システムの運用・保守、問い合わせ対応、
-障害対応、システム更改支援などに携わってきました。
+業務システムの運用・保守を中心に、問い合わせ対応、障害の調査・対応、
+ドキュメント整備、外部ベンダーとの調整、システム更改支援に携わってきました。
+Java による開発・単体テストの経験もあります。
 
-約２年半ほどキャリアの中断期間には、体調の回復と今後の働き方を見直す時間を取りました。
-現在は安定して学習を継続できる状態となり、Java・Pythonを中心とした開発技術を学びながら、早期の就業に向けて取り組んでいます。
-
-現在は職業訓練で、Java・Pythonによるシステム開発を学習しています。
-これまでの運用経験と開発技術を組み合わせ、
-安定したシステムの開発・運用に貢献することを目指しています。
-
----
-
-## 経験
-
-- 業務システムの運用・保守
-- 利用者からの問い合わせ対応
-- 障害発生時の調査・対応
-- 仕様書・設計書・運用手順書の更新
-- 外部ベンダーとの調整
-- システム更改支援
-- Javaを使用した開発・テスト
-- 単体テストおよびテスト仕様書の作成
-
----
-
-## 学習中の技術
-
-### プログラミング言語
-
-- Java
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
-
-### フレームワーク・ライブラリ
-
-- Spring Boot
-- Servlet / JSP
-- JDBC
-
-### データベース
-
-- MySQL
-- MariaDB
-- H2 Database
-- SQLite
-- Oracle Database
-
-### 開発環境・ツール
-
-- Eclipse
-- Visual Studio Code
-- Git
-- GitHub
-- Maven
-- Tomcat
-- Docker
-- Linux
-- VirtualBox
-
----
-
-## 現在取り組んでいることと今後の予定
-
-- Javaのオブジェクト指向
-- クラス・継承・インターフェース
-- 例外処理
-- コレクション
-- ラムダ式とStream API
-- Spring BootによるWebアプリケーション開発
-- JDBCによるデータベース接続
-- HTML・CSS・JavaScriptによる画面作成
-- GitとGitHubによるソースコード管理
-- Python
-
-## 資格取得
-
-- .com Master☆　.com Master☆☆（1993年8月）
-- MCP 70-290：Srv 2003,70-270：XP,70-431：SQLServer 2005（2007年5月）
-- CCNA（2008年3月）
-- 初級システムアドミニストレータ	
-- 基本情報技術者（2008年5月）
-- Linux Professional Institute LPIC-1 LPIC-2（2009年3月）
-- eco検定（2009年7月）
-- Sun SJC-A SJC-P（2010年6月）
-- JASA　情報セキュリティ監査アソシエイト（2014年6月）
-
-## 資格取り直し予定（2026年6月～）
-
-- ITパスポート（2026年7月取得）
-- 基本情報技術者試験(FE)（2026年  9月取得）
-- 情報セキュリティマネジメント試験(SG)（2026年9月予定）
-- Linux Professional Institute LPIC-1 LPIC-2 LPIC-3（2026年10月以降で順次取得予定）
-- Java SE Bronze(1Z0-818-JPN) Java SE 17 Programmer I (1Z0-825-JPN)（2026年10月以降で順次取得予定）
+運用の現場で「何が困るか」を知っていることが強みです。
+ディスク使用量の増え方から約半年後の容量不足を予測して対策を提案した経験や、
+毎日の繰り返し作業をツールにした経験を、下の制作物としてまとめています。
 
 ---
 
 ## 制作物
 
-### 星のきろく
+### 🚀 [星のきろく](https://github.com/oouchi1234567890/record_of_the_stars) — JavaScript シューティングゲーム
 
-JavaScriptを使用して作成しているシューティングゲームです。
+**[▶ ブラウザで遊ぶ（GitHub Pages）](https://oouchi1234567890.github.io/record_of_the_stars/)**
 
-主な学習内容：
+<a href="https://oouchi1234567890.github.io/record_of_the_stars/"><img src="https://raw.githubusercontent.com/oouchi1234567890/record_of_the_stars/main/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-07-03%20175205.png" width="560" alt="星のきろく プレイ画面"></a>
 
-- クラス設計
-- オブジェクト指向
-- キーボード入力
-- 画像表示
-- 当たり判定
-- ファイル操作
+地球軌道上のステーションを守るアクションシューティングです。
+約20年前の専門学校の課題を、JavaScript で一から作り直しました。
 
-制作物は随時更新、次回以降でのタスク
-- 戦闘の音楽(2026/08/30対応)
-- ミサイルの発射位置を変更(2026/08/30対応)
-もふもふさん、教えてくれてありがとうございます！
-対応しました！
+- **技術**：JavaScript / HTML / CSS（フレームワークなし）
+- **見どころ**：当たり判定・敵・弾・ステージなど役割ごとのモジュール分割、日本語／英語切り替え、ロジックのテスト（`node tests/logic-test.js`）、更新履歴の管理
+
+### その他の制作物
+
+| 制作物 | 内容 | 技術 |
+| --- | --- | --- |
+| 📊 [AWS × Zabbix 監視環境構築](https://github.com/oouchi1234567890/aws-zabbix-monitoring) | 運用業務での容量不足の予兆検知の経験をもとに、監視・通知・バックアップ・費用まで設計。設計と手順書は完了、実環境での検証を進行中 | AWS (EC2) / Zabbix / Linux |
+| 💰 [Kakeibo Tracker](https://github.com/oouchi1234567890/kakeibo-tracker) | 月ごとの予算と実績を比較できる家計簿アプリ。グラフ表示、CSV 出力・復元、図解つき操作ガイド（日英） | Python / Streamlit / SQLite / pandas / Plotly |
+| 🍻 [暑気払い参加確認サイト](https://github.com/oouchi1234567890/summer-team-social) | 職業訓練の仲間との食事会の参加確認用 Web アプリ。書籍の題材に「自分の投稿だけ削除できる機能」を独自に追加 | Java / Servlet / JSP |
+| 📁 [RenameTool](https://github.com/oouchi1234567890/rename-tool) | ファイル名の一括置換ツール。元に戻すための `Restore.bat` を自動生成 | Java |
+| 📗 [excel-a1-view-reset](https://github.com/oouchi1234567890/excel-a1-view-reset) | フォルダ内の Excel ファイルの全シートを A1 セル・左上表示に戻すツール。Java や Python が使えない職場でも使える | Excel VBA |
+
+**学習用の資料**：[Git バージョン管理 入門](https://github.com/oouchi1234567890/git-version-control-introduction)（日英の教材とスライド）／ [Python チートシート](https://github.com/oouchi1234567890/python_cheat_sheet)
+
 ---
 
-## 今後のやること
+## 実務経験
 
-- JavaとSpring Bootを使用したWebアプリケーションの完成
-- Pythonを使用したアプリケーション開発
-- データベースを利用したCRUD機能の実装
-- Dockerを使用した開発環境の構築
-- 運用・保守経験を活かせる業務への参加
-- AWSでZabbixとRedmineの環境の構築
-- paiza：現在レーティング1400台
-  2017年頃に到達した1500以上への復帰を目標に、継続して学習しています。
-## paiza Skills
+| 分野 | 内容 |
+| --- | --- |
+| 運用・保守 | 業務システムの運用・保守、利用者からの問い合わせ対応 |
+| 監視・障害対応 | Zabbix による死活監視・リソース監視、障害発生時の調査・切り分け・対応 |
+| ドキュメント | 仕様書・設計書・運用手順書の更新 |
+| 調整 | 外部ベンダーとの調整、システム更改支援 |
+| 開発・テスト | Java を使用した開発・テスト、単体テストおよびテスト仕様書の作成 |
 
-- paizaランク：B
-- 現在レーティング：1398
-- 最高レーティング：1513
-- paiza公式の目安では、Bランクは上位約30％に相当します。
+---
 
-※レーティング画像は本人のpaizaスキルチェック結果です。  
-※割合は時期により変動します。
+## 技術スタック
 
+**言語**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square)
+
+**フレームワーク・ライブラリ**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Servlet/JSP](https://img.shields.io/badge/Servlet%20%2F%20JSP-007396?style=flat-square)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**データベース**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-1E3A8A?style=flat-square)
+
+**インフラ・ツール**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+
+---
+
+## 資格
+
+| 資格 | 状況 |
+| --- | --- |
+| 基本情報技術者試験（FE） | ✅ 2026年9月 取得 |
+| ITパスポート | ✅ 2026年7月 取得 |
+| 情報セキュリティマネジメント試験（SG） | 2026年9月 受験 |
+| LPIC-1 / LPIC-2 / LPIC-3 | 順次受験予定 |
+| Java SE Bronze（1Z0-818-JPN）/ Java SE 17 Programmer I（1Z0-825-JPN） | 順次受験予定 |
+
+<details>
+<summary>過去に取得した資格（1993年〜2014年）</summary>
+
+- JASA 情報セキュリティ監査アソシエイト（2014年6月）
+- Sun SJC-A / SJC-P（2010年6月）
+- eco検定（2009年7月）
+- LPIC-1 / LPIC-2（2009年3月）
+- 基本情報技術者（2008年5月）
+- CCNA（2008年3月）
+- MCP 70-290（Windows Server 2003）/ 70-270（Windows XP）/ 70-431（SQL Server 2005）（2007年5月）
+- 初級システムアドミニストレータ
+- .com Master☆ / .com Master☆☆（1993年8月）
+
+</details>
+
+---
+
+## paiza スキルチェック
+
+| ランク | 現在のレーティング | 最高レーティング |
+| :---: | :---: | :---: |
+| **B** | 1398 | 1513 |
+
+Bランクは paiza 公式の目安で上位約30％に相当します（割合は時期により変動）。
 出典：[paiza プログラミングスキルチェック](https://paiza.jp/challenges/info)
 
-## GitHub プロファイルを使用しての自己紹介について
+---
 
-このプロフィールは、GitHub公式ドキュメント「GitHub プロファイルを使用して履歴書を強化する」を参考に、就職活動用として整理しています。
+## 今後の目標
 
-GitHub公式では、採用担当者が技術や経験を把握しやすくなるよう、プロフィールを次のように整えることを推奨しています。
-
-- 自分の経歴や希望職種を簡潔に紹介する
-- 使用できるプログラミング言語、フレームワーク、ツールを記載する
-- 代表的なプロジェクトを3～5件選び、プロフィールにピン留めする
-- プロジェクトの目的、主な機能、使用技術をREADMEで説明する
-- セットアップ方法、実行方法、デモ、テスト方法を記載する
-- 分かりやすいファイル名と一貫性のあるコーディングスタイルを使用する
-- 複雑な処理には適切なコメントやドキュメントを用意する
-- テストを追加し、コードが正しく動作することを確認する
-- 使用しているライブラリや依存関係を適切に管理する
-- 履歴書や職務経歴書からGitHubプロフィールへアクセスできるようにする
-
-### Official GitHub Documentation
-
-- [日本語：GitHub プロファイルを使用して履歴書を強化する](https://docs.github.com/ja/account-and-profile/tutorials/using-your-github-profile-to-enhance-your-resume)
-- [English: Using your GitHub profile to enhance your resume](https://docs.github.com/en/account-and-profile/tutorials/using-your-github-profile-to-enhance-your-resume)
+- [ ] AWS × Zabbix 監視環境の実機検証を完了し、結果と証跡を公開する
+- [ ] Java / Spring Boot による Web アプリケーション（DB を使った CRUD 機能つき）の完成
+- [ ] Docker による開発環境の構築
+- [ ] AWS 上に Redmine 環境を構築
+- [ ] paiza レーティング 1500 台への復帰
 
 ---
 
-This profile has been organized for job applications with reference to GitHub’s official guide, “Using your GitHub profile to enhance your resume.”
+## 連絡先
 
-The official guide recommends providing a concise professional introduction, presenting relevant technical skills, highlighting three to five representative projects, and making each project easy for hiring managers to understand. Project documentation should explain its purpose, main features, technologies, setup process, usage, demonstrations, and testing instructions.
-
-The repositories presented here are maintained with attention to readability, consistent coding style, documentation, testing, and dependency management.
-
-*This section summarizes the recommendations in the official GitHub documentation. It is not an official statement or certification from GitHub.*
+ご連絡は GitHub からお気軽にどうぞ。
