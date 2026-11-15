@@ -15,7 +15,6 @@ I care about systems that don't just ship, but **keep running reliably**.
 - 🛠 Hands-on experience in system operations & maintenance, incident response, and system renewal support
 - 💼 Working as a temporary staff member since October 2026
 - ☕ Studied Java (Servlet/JSP, Spring Boot) and Python in a vocational training program, and publish what I build on GitHub
-- 📜 Earned IT Passport and the Fundamental Information Technology Engineer (FE) certification in 2026
 - 🔧 I enjoy turning small everyday annoyances at work into tools
 
 ---
