@@ -51,8 +51,8 @@ Java による開発・単体テストの経験もあります。
 | 🍻 [暑気払い参加確認サイト](https://github.com/oouchi1234567890/summer-team-social) | 職業訓練の仲間との食事会の参加確認用 Web アプリ。書籍の題材に「自分の投稿だけ削除できる機能」を独自に追加 | Java / Servlet / JSP |
 | 📁 [RenameTool](https://github.com/oouchi1234567890/rename-tool) | ファイル名の一括置換ツール。元に戻すための `Restore.bat` を自動生成 | Java |
 | 📗 [excel-a1-view-reset](https://github.com/oouchi1234567890/excel-a1-view-reset) | フォルダ内の Excel ファイルの全シートを A1 セル・左上表示に戻すツール。Java や Python が使えない職場でも使える | Excel VBA |
-
-**学習用の資料**：[Git バージョン管理 入門](https://github.com/oouchi1234567890/git-version-control-introduction)（日英の教材とスライド）／ [Python チートシート](https://github.com/oouchi1234567890/python_cheat_sheet)
+| 📘 [Git バージョン管理 入門](https://github.com/oouchi1234567890/git-version-control-introduction) | Git のローカル操作を初めて学ぶ人向けに自作した教材。初めてのコミットやブランチの演習つきで、日本語版・英語版とスライド（PowerPoint）を用意 | Git / Markdown / PowerPoint |
+| 🐍 [Python チートシート](https://github.com/oouchi1234567890/python_cheat_sheet) | よく使う構文や操作を用途別にまとめた自作チートシート。文字列、データ構造、関数、クラス、例外処理、正規表現などを収録し、動かして確かめられるコード（`cheat_sheet.py`）つき。日英対応 | Python / Markdown |
 
 ---
 
@@ -140,6 +140,8 @@ Java による開発・単体テストの経験もあります。
 | ランク | 現在のレーティング | 最高レーティング |
 | :---: | :---: | :---: |
 | **B** | 1398 | 1513 |
+
+※ スキルチェックの問題は、生成AIを使わず、すべて自力で解いています。
 
 Bランクは paiza 公式の目安で上位約30％に相当します（割合は時期により変動）。
 出典：[paiza プログラミングスキルチェック](https://paiza.jp/challenges/info)
