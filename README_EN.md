@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/profile.png" width="150" alt="Shinsuke Oouchi" />
+</p>
+
 # Hi, I'm Shinsuke Oouchi 👋
 
 <p align="center">
@@ -51,8 +55,8 @@ It began about 20 years ago as a vocational-school assignment, and I rebuilt it 
 | 🍻 [Summer team social attendance site](https://github.com/oouchi1234567890/summer-team-social) | Web app for confirming attendance at a get-together with my training classmates. I extended a textbook example with a "delete only your own posts" feature | Java / Servlet / JSP |
 | 📁 [RenameTool](https://github.com/oouchi1234567890/rename-tool) | Batch file-renaming tool that also generates a `Restore.bat` to undo the change | Java |
 | 📗 [excel-a1-view-reset](https://github.com/oouchi1234567890/excel-a1-view-reset) | Resets every sheet of every Excel file in a folder to cell A1 and the top-left view. Works even where Java or Python isn't available | Excel VBA |
-
-**Learning materials:** [Introduction to Git Version Control](https://github.com/oouchi1234567890/git-version-control-introduction) (JA / EN guides and slides) / [Python cheat sheet](https://github.com/oouchi1234567890/python_cheat_sheet)
+| 📘 [Introduction to Git Version Control](https://github.com/oouchi1234567890/git-version-control-introduction) | Teaching material I wrote for people learning local Git operations for the first time. Includes hands-on exercises (first commit, branching), Japanese and English editions, and PowerPoint slides | Git / Markdown / PowerPoint |
+| 🐍 [Python cheat sheet](https://github.com/oouchi1234567890/python_cheat_sheet) | A cheat sheet I wrote that organizes common syntax and operations by purpose: strings, data structures, functions, classes, exception handling, regular expressions, and more. Comes with runnable code (`cheat_sheet.py`); JA / EN | Python / Markdown |
 
 ---
 
@@ -140,6 +144,8 @@ It began about 20 years ago as a vocational-school assignment, and I rebuilt it 
 | Rank | Current rating | Highest rating |
 | :---: | :---: | :---: |
 | **B** | 1398 | 1513 |
+
+Note: I solve all skill-check problems on my own, without using generative AI.
 
 paiza (a Japanese programming skill-check platform) describes rank B as roughly the top 30% of users (the share varies over time).
 
