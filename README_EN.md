@@ -1,154 +1,160 @@
-# Hi, I'm Shinsuke Ouchi
+# Hi, I'm Shinsuke Oouchi 👋
 
 <p align="center">
   <a href="README.md"><img alt="日本語" src="https://img.shields.io/badge/Language-日本語-222222?style=flat-square&logo=github" /></a>
   <a href="README_EN.md"><img alt="English" src="https://img.shields.io/badge/Language-English-0A84FF?style=flat-square&logo=github" /></a>
 </p>
 
-This page is written in English and translated from the Japanese original using AI.
+**Business-system operations experience × Java / Python development skills.**
+I care about systems that don't just ship, but **keep running reliably**.
 
-I am a Java and Python learner with experience in business system operations and maintenance.
-I am currently studying software development and strengthening my skills in Java, Spring Boot, SQL, and Git/GitHub.
+- 🛠 Hands-on experience in system operations & maintenance, incident response, and system renewal support
+- 💼 Working as a temporary staff member since October 2026
+- ☕ Studied Java (Servlet/JSP, Spring Boot) and Python in a vocational training program, and publish what I build on GitHub
+- 📜 Earned IT Passport and the Fundamental Information Technology Engineer (FE) certification in 2026
+- 🔧 I enjoy turning small everyday annoyances at work into tools
 
 ---
 
 ## About Me
 
-I have experience in operating and maintaining business systems, including user support, incident response, system renewal support, and documentation updates.
+My work has centered on operating and maintaining business systems: handling user inquiries,
+investigating and resolving incidents, maintaining documentation, coordinating with external vendors,
+and supporting system renewals. I also have experience with Java development and unit testing.
 
-After a career break of about two and a half years, I took time to recover and rethink my future direction. I am now in a stable learning phase and actively working toward re-entering the workforce.
-
-My goal is to combine my operational experience with software development knowledge to contribute to reliable and sustainable system development.
-
----
-
-## Skills
-
-### Languages
-- Java
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
-
-### Frameworks / Libraries
-- Spring Boot
-- Servlet / JSP
-- JDBC
-
-### Databases
-- MySQL
-- MariaDB
-- H2 Database
-- SQLite
-- Oracle Database
-
-### Tools
-- Eclipse
-- Visual Studio Code
-- Git
-- GitHub
-- Maven
-- Tomcat
-- Docker
-- Linux
-- VirtualBox
-
----
-
-## Experience
-
-- Business system operation and maintenance
-- User support and inquiry handling
-- Incident investigation and response
-- Updating specifications, design documents, and operational procedures
-- Coordination with external vendors
-- Support for system renewal projects
-- Java development and testing
-- Unit test creation and test specification writing
-
----
-
-## Current Focus
-
-- Object-oriented programming in Java
-- Classes, inheritance, and interfaces
-- Exception handling
-- Collections
-- Lambda expressions and Stream API
-- Web application development with Spring Boot
-- Database connectivity with JDBC
-- Front-end development with HTML, CSS, and JavaScript
-- Version control using Git and GitHub
-- Python application development
+My strength is knowing first-hand what goes wrong in production.
+I once predicted a disk shortage about six months ahead from the growth of disk usage and proposed countermeasures,
+and I have turned repetitive daily tasks into tools. The projects below come out of those experiences.
 
 ---
 
 ## Projects
 
-### Star Record
-A shooting game built with JavaScript.
+### 🚀 [Hoshi no Kiroku ("Star Record")](https://github.com/oouchi1234567890/record_of_the_stars) — JavaScript shooting game
 
-This project helped me improve my understanding of:
-- Class design
-- Object-oriented programming
-- Keyboard input handling
-- Image rendering
-- Collision detection
-- File operations
+**[▶ Play in your browser (GitHub Pages)](https://oouchi1234567890.github.io/record_of_the_stars/)**
 
-Planned improvements:
-- Add in-game music
-- Adjust missile firing positions
+<a href="https://oouchi1234567890.github.io/record_of_the_stars/"><img src="https://raw.githubusercontent.com/oouchi1234567890/record_of_the_stars/main/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-07-03%20175205.png" width="560" alt="Hoshi no Kiroku gameplay"></a>
+
+An action shooter about defending a station in Earth orbit.
+It began about 20 years ago as a vocational-school assignment, and I rebuilt it from scratch in JavaScript.
+
+- **Tech:** JavaScript / HTML / CSS (no framework)
+- **Highlights:** modules split by role (collision, enemies, projectiles, stages), Japanese / English switching, logic tests (`node tests/logic-test.js`), and a maintained update log
+
+### Other projects
+
+| Project | What it is | Tech |
+| --- | --- | --- |
+| 📊 [AWS × Zabbix monitoring](https://github.com/oouchi1234567890/aws-zabbix-monitoring) | Based on my experience spotting an upcoming disk shortage in operations: monitoring, alerting, backup, and cost design. Design and procedures are done; verification on a live environment is in progress | AWS (EC2) / Zabbix / Linux |
+| 💰 [Kakeibo Tracker](https://github.com/oouchi1234567890/kakeibo-tracker) | Household budget app comparing monthly budget and actual spending, with charts, CSV export / restore, and an illustrated user guide (JA / EN) | Python / Streamlit / SQLite / pandas / Plotly |
+| 🍻 [Summer team social attendance site](https://github.com/oouchi1234567890/summer-team-social) | Web app for confirming attendance at a get-together with my training classmates. I extended a textbook example with a "delete only your own posts" feature | Java / Servlet / JSP |
+| 📁 [RenameTool](https://github.com/oouchi1234567890/rename-tool) | Batch file-renaming tool that also generates a `Restore.bat` to undo the change | Java |
+| 📗 [excel-a1-view-reset](https://github.com/oouchi1234567890/excel-a1-view-reset) | Resets every sheet of every Excel file in a folder to cell A1 and the top-left view. Works even where Java or Python isn't available | Excel VBA |
+
+**Learning materials:** [Introduction to Git Version Control](https://github.com/oouchi1234567890/git-version-control-introduction) (JA / EN guides and slides) / [Python cheat sheet](https://github.com/oouchi1234567890/python_cheat_sheet)
+
+---
+
+## Experience
+
+| Area | Details |
+| --- | --- |
+| Operations & maintenance | Operating and maintaining business systems; handling user inquiries |
+| Monitoring & incident response | Availability and resource monitoring with Zabbix; investigating, isolating, and resolving incidents |
+| Documentation | Updating specifications, design documents, and operational procedures |
+| Coordination | Working with external vendors; supporting system renewal projects |
+| Development & testing | Java development and testing; writing unit tests and test specifications |
+
+---
+
+## Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square)
+
+**Frameworks / Libraries**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Servlet/JSP](https://img.shields.io/badge/Servlet%20%2F%20JSP-007396?style=flat-square)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![H2](https://img.shields.io/badge/H2_Database-1E3A8A?style=flat-square)
+
+**Infrastructure / Tools**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
 
 ---
 
 ## Certifications
 
-### In Progress
-- IT Passport (2026)
-- Fundamental Information Technology Engineer Examination (FE) - planned for 2026
-- Information Security Management Examination (SG) - planned for 2026
-- LPIC-1 / LPIC-2 - planned for 2026
-- Java SE Bronze / Java SE 17 Programmer I - planned for 2026 onward
+| Certification | Status |
+| --- | --- |
+| Fundamental Information Technology Engineer Examination (FE) | ✅ Earned September 2026 |
+| IT Passport | ✅ Earned July 2026 |
+| Information Security Management Examination (SG) | Taken September 2026 |
+| LPIC-1 / LPIC-2 / LPIC-3 | Planned |
+| Java SE Bronze (1Z0-818-JPN) / Java SE 17 Programmer I (1Z0-825-JPN) | Planned |
 
-### Past
-- .com Master☆ / .com Master☆☆ (1993)
-- MCP 70-290 / 70-270 / 70-431 (2007)
-- CCNA (2008)
+<details>
+<summary>Earlier certifications (1993–2014)</summary>
+
+- JASA Information Security Audit Associate (June 2014)
+- Sun SJC-A / SJC-P (June 2010)
+- eco Certification (July 2009)
+- LPIC-1 / LPIC-2 (March 2009)
+- Fundamental Information Technology Engineer (May 2008)
+- CCNA (March 2008)
+- MCP 70-290 (Windows Server 2003) / 70-270 (Windows XP) / 70-431 (SQL Server 2005) (May 2007)
 - Initial System Administrator
-- Fundamental Information Technology Engineer (2008)
-- LPIC-1 / LPIC-2 (2009)
-- eco Certification (2009)
-- Sun SJC-A / SJC-P (2010)
-- JASA Information Security Audit Associate (2014)
+- .com Master☆ / .com Master☆☆ (August 1993)
+
+</details>
+
+---
+
+## paiza Skill Check
+
+| Rank | Current rating | Highest rating |
+| :---: | :---: | :---: |
+| **B** | 1398 | 1513 |
+
+paiza (a Japanese programming skill-check platform) describes rank B as roughly the top 30% of users (the share varies over time).
 
 ---
 
 ## Goals
 
-- Build a web application with Java and Spring Boot
-- Develop practical applications using Python
-- Implement CRUD features with databases
-- Learn Docker and improve my development environment
-- Apply my operations and support background to real-world software development
-- Strengthen my skills in Linux, AWS, and monitoring systems
-
----
-
-## paiza Skills
-
-- Rank: B
-- Current rating: 1398
-- Highest rating: 1513
-
-This reflects my continued effort to improve my programming and problem-solving abilities.
+- [ ] Finish live verification of the AWS × Zabbix monitoring environment and publish the results
+- [ ] Complete a Java / Spring Boot web application with database-backed CRUD features
+- [ ] Set up a Docker-based development environment
+- [ ] Build a Redmine environment on AWS
+- [ ] Get my paiza rating back above 1500
 
 ---
 
 ## Contact
 
-I am actively learning and looking for opportunities to contribute as a developer in a professional environment.
-
-Please feel free to connect with me through GitHub or other professional channels.
+Feel free to reach out through GitHub.
