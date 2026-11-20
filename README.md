@@ -134,11 +134,9 @@ Java による開発・単体テストの経験もあります。
 <details>
 <summary>受験予定の資格</summary>
 
-| 資格 | 状況 |
-| --- | --- |
-| 情報セキュリティマネジメント試験（SG） | 2026年12月 受験予定 |
-| LPIC-1 / LPIC-2 / LPIC-3 | 順次受験予定 |
-| Java SE Bronze（1Z0-818-JPN）/ Java SE 17 Programmer I（1Z0-825-JPN） | 順次受験予定 |
+- 情報セキュリティマネジメント試験（SG）（2026年12月 受験予定）
+- LPIC-1 / LPIC-2 / LPIC-3（順次受験予定）
+- Java SE Bronze（1Z0-818-JPN）/ Java SE 17 Programmer I（1Z0-825-JPN）（順次受験予定）
 
 </details>
 

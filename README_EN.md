@@ -138,11 +138,9 @@ It began about 20 years ago as a vocational-school assignment, and I rebuilt it 
 <details>
 <summary>Planned certifications</summary>
 
-| Certification | Status |
-| --- | --- |
-| Information Security Management Examination (SG) | Planned December 2026 |
-| LPIC-1 / LPIC-2 / LPIC-3 | Planned |
-| Java SE Bronze (1Z0-818-JPN) / Java SE 17 Programmer I (1Z0-825-JPN) | Planned |
+- Information Security Management Examination (SG) (Planned December 2026)
+- LPIC-1 / LPIC-2 / LPIC-3 (Planned)
+- Java SE Bronze (1Z0-818-JPN) / Java SE 17 Programmer I (1Z0-825-JPN) (Planned)
 
 </details>
 
