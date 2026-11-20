@@ -171,3 +171,6 @@ paiza (a Japanese programming skill-check platform) describes rank B as roughly 
 ## Contact
 
 Feel free to reach out through GitHub.
+
+
+Icons are made with [Lucide](https://lucide.dev/). Thank you, as always.
