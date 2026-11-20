@@ -119,12 +119,8 @@ It began about 20 years ago as a vocational-school assignment, and I rebuilt it 
 | --- | --- |
 | Fundamental Information Technology Engineer Examination (FE) | ✅ Earned September 2026 |
 | IT Passport | ✅ Earned July 2026 |
-| Information Security Management Examination (SG) | Taken September 2026 |
-| LPIC-1 / LPIC-2 / LPIC-3 | Planned |
-| Java SE Bronze (1Z0-818-JPN) / Java SE 17 Programmer I (1Z0-825-JPN) | Planned |
 
-<details>
-<summary>Earlier certifications (1993–2014)</summary>
+**Earlier certifications (1993–2014)**
 
 - JASA Information Security Audit Associate (June 2014)
 - Sun SJC-A / SJC-P (June 2010)
@@ -135,6 +131,15 @@ It began about 20 years ago as a vocational-school assignment, and I rebuilt it 
 - MCP 70-290 (Windows Server 2003) / 70-270 (Windows XP) / 70-431 (SQL Server 2005) (May 2007)
 - Initial System Administrator
 - .com Master☆ / .com Master☆☆ (August 1993)
+
+<details>
+<summary>Taken and planned certifications</summary>
+
+| Certification | Status |
+| --- | --- |
+| Information Security Management Examination (SG) | Taken September 2026 |
+| LPIC-1 / LPIC-2 / LPIC-3 | Planned |
+| Java SE Bronze (1Z0-818-JPN) / Java SE 17 Programmer I (1Z0-825-JPN) | Planned |
 
 </details>
 

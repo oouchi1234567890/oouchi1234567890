@@ -115,12 +115,8 @@ Java による開発・単体テストの経験もあります。
 | --- | --- |
 | 基本情報技術者試験（FE） | ✅ 2026年9月 取得 |
 | ITパスポート | ✅ 2026年7月 取得 |
-| 情報セキュリティマネジメント試験（SG） | 2026年9月 受験 |
-| LPIC-1 / LPIC-2 / LPIC-3 | 順次受験予定 |
-| Java SE Bronze（1Z0-818-JPN）/ Java SE 17 Programmer I（1Z0-825-JPN） | 順次受験予定 |
 
-<details>
-<summary>過去に取得した資格（1993年〜2014年）</summary>
+**過去に取得した資格（1993年〜2014年）**
 
 - JASA 情報セキュリティ監査アソシエイト（2014年6月）
 - Sun SJC-A / SJC-P（2010年6月）
@@ -131,6 +127,15 @@ Java による開発・単体テストの経験もあります。
 - MCP 70-290（Windows Server 2003）/ 70-270（Windows XP）/ 70-431（SQL Server 2005）（2007年5月）
 - 初級システムアドミニストレータ
 - .com Master☆ / .com Master☆☆（1993年8月）
+
+<details>
+<summary>受験済み・受験予定の資格</summary>
+
+| 資格 | 状況 |
+| --- | --- |
+| 情報セキュリティマネジメント試験（SG） | 2026年9月 受験 |
+| LPIC-1 / LPIC-2 / LPIC-3 | 順次受験予定 |
+| Java SE Bronze（1Z0-818-JPN）/ Java SE 17 Programmer I（1Z0-825-JPN） | 順次受験予定 |
 
 </details>
 
