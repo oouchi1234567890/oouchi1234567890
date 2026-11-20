@@ -1,6 +1,6 @@
 <img src="images/sakura.svg" width="100%" alt="桜の花びらが舞うバナー">
 
-# はじめまして、大内です 👋
+# はじめまして、大内です <img src="images/icons/hand.svg" width="28" height="28" alt="">
 
 <p align="center">
   <a href="README.md"><img alt="日本語" src="https://img.shields.io/badge/Language-日本語-222222?style=flat-square&logo=github" /></a>
@@ -10,10 +10,10 @@
 **業務システムの運用・保守経験 × Java / Python による開発スキル**で、
 「作って終わり」ではなく、**安定して動き続けるシステム**づくりに取り組んでいます。
 
-- 🛠 業務システムの運用・保守、障害対応、システム更改支援の実務経験
-- 💼 2026年10月から派遣社員として就業中
-- ☕ 職業訓練で Java（Servlet/JSP・Spring Boot）と Python を学び、制作物を GitHub で公開
-- 🔧 現場の「ちょっと面倒」を道具にして解決するのが好きです
+- <img src="images/icons/server-cog.svg" width="18" height="18" alt=""> 業務システムの運用・保守、障害対応、システム更改支援の実務経験
+- <img src="images/icons/briefcase.svg" width="18" height="18" alt=""> 2026年10月から派遣社員として就業中
+- <img src="images/icons/coffee.svg" width="18" height="18" alt=""> 職業訓練で Java（Servlet/JSP・Spring Boot）と Python を学び、制作物を GitHub で公開
+- <img src="images/icons/wrench.svg" width="18" height="18" alt=""> 現場の「ちょっと面倒」を道具にして解決するのが好きです
 
 ---
 
@@ -31,7 +31,7 @@ Java による開発・単体テストの経験もあります。
 
 ## 制作物
 
-### 🚀 [星のきろく](https://github.com/oouchi1234567890/record_of_the_stars) — JavaScript シューティングゲーム
+### <img src="images/icons/rocket.svg" width="22" height="22" alt=""> [星のきろく](https://github.com/oouchi1234567890/record_of_the_stars) — JavaScript シューティングゲーム
 
 **[▶ ブラウザで遊ぶ（GitHub Pages）](https://oouchi1234567890.github.io/record_of_the_stars/)**
 
@@ -47,13 +47,13 @@ Java による開発・単体テストの経験もあります。
 
 | 制作物 | 内容 | 技術 |
 | --- | --- | --- |
-| 📊 [AWS × Zabbix 監視環境構築](https://github.com/oouchi1234567890/aws-zabbix-monitoring) | 運用業務での容量不足の予兆検知の経験をもとに、監視・通知・バックアップ・費用まで設計。設計と手順書は完了、実環境での検証を進行中 | AWS (EC2) / Zabbix / Linux |
-| 💰 [Kakeibo Tracker](https://github.com/oouchi1234567890/kakeibo-tracker) | 月ごとの予算と実績を比較できる家計簿アプリ。グラフ表示、CSV 出力・復元、図解つき操作ガイド（日英） | Python / Streamlit / SQLite / pandas / Plotly |
-| 🍻 [暑気払い参加確認サイト](https://github.com/oouchi1234567890/summer-team-social) | 職業訓練の仲間との食事会の参加確認用 Web アプリ。書籍の題材に「自分の投稿だけ削除できる機能」を独自に追加 | Java / Servlet / JSP |
-| 📁 [RenameTool](https://github.com/oouchi1234567890/rename-tool) | ファイル名の一括置換ツール。元に戻すための `Restore.bat` を自動生成 | Java |
-| 📗 [excel-a1-view-reset](https://github.com/oouchi1234567890/excel-a1-view-reset) | フォルダ内の Excel ファイルの全シートを A1 セル・左上表示に戻すツール。Java や Python が使えない職場でも使える | Excel VBA |
-| 📘 [Git バージョン管理 入門](https://github.com/oouchi1234567890/git-version-control-introduction) | Git のローカル操作を初めて学ぶ人向けに自作した教材。初めてのコミットやブランチの演習つきで、日本語版・英語版とスライド（PowerPoint）を用意 | Git / Markdown / PowerPoint |
-| 🐍 [Python チートシート](https://github.com/oouchi1234567890/python_cheat_sheet) | よく使う構文や操作を用途別にまとめた自作チートシート。文字列、データ構造、関数、クラス、例外処理、正規表現などを収録し、動かして確かめられるコード（`cheat_sheet.py`）つき。日英対応 | Python / Markdown |
+| <img src="images/icons/chart-column.svg" width="18" height="18" alt=""> [AWS × Zabbix 監視環境構築](https://github.com/oouchi1234567890/aws-zabbix-monitoring) | 運用業務での容量不足の予兆検知の経験をもとに、監視・通知・バックアップ・費用まで設計。設計と手順書は完了、実環境での検証を進行中 | AWS (EC2) / Zabbix / Linux |
+| <img src="images/icons/wallet.svg" width="18" height="18" alt=""> [Kakeibo Tracker](https://github.com/oouchi1234567890/kakeibo-tracker) | 月ごとの予算と実績を比較できる家計簿アプリ。グラフ表示、CSV 出力・復元、図解つき操作ガイド（日英） | Python / Streamlit / SQLite / pandas / Plotly |
+| <img src="images/icons/beer.svg" width="18" height="18" alt=""> [暑気払い参加確認サイト](https://github.com/oouchi1234567890/summer-team-social) | 職業訓練の仲間との食事会の参加確認用 Web アプリ。書籍の題材に「自分の投稿だけ削除できる機能」を独自に追加 | Java / Servlet / JSP |
+| <img src="images/icons/folder.svg" width="18" height="18" alt=""> [RenameTool](https://github.com/oouchi1234567890/rename-tool) | ファイル名の一括置換ツール。元に戻すための `Restore.bat` を自動生成 | Java |
+| <img src="images/icons/sheet.svg" width="18" height="18" alt=""> [excel-a1-view-reset](https://github.com/oouchi1234567890/excel-a1-view-reset) | フォルダ内の Excel ファイルの全シートを A1 セル・左上表示に戻すツール。Java や Python が使えない職場でも使える | Excel VBA |
+| <img src="images/icons/book-open.svg" width="18" height="18" alt=""> [Git バージョン管理 入門](https://github.com/oouchi1234567890/git-version-control-introduction) | Git のローカル操作を初めて学ぶ人向けに自作した教材。初めてのコミットやブランチの演習つきで、日本語版・英語版とスライド（PowerPoint）を用意 | Git / Markdown / PowerPoint |
+| <img src="images/icons/code.svg" width="18" height="18" alt=""> [Python チートシート](https://github.com/oouchi1234567890/python_cheat_sheet) | よく使う構文や操作を用途別にまとめた自作チートシート。文字列、データ構造、関数、クラス、例外処理、正規表現などを収録し、動かして確かめられるコード（`cheat_sheet.py`）つき。日英対応 | Python / Markdown |
 
 ---
 
@@ -114,8 +114,8 @@ Java による開発・単体テストの経験もあります。
 <details>
 <summary>2026年に取得した資格</summary>
 
-- ✅ 基本情報技術者試験（FE）（2026年9月 取得）
-- ✅ ITパスポート（2026年7月 取得）
+- <img src="images/icons/circle-check.svg" width="18" height="18" alt=""> 基本情報技術者試験（FE）（2026年9月 取得）
+- <img src="images/icons/circle-check.svg" width="18" height="18" alt=""> ITパスポート（2026年7月 取得）
 
 </details>
 

@@ -4,7 +4,7 @@
   <img src="images/profile.png" width="150" alt="Shinsuke Oouchi" />
 </p>
 
-# Hi, I'm Shinsuke Oouchi 👋
+# Hi, I'm Shinsuke Oouchi <img src="images/icons/hand.svg" width="28" height="28" alt="">
 
 <p align="center">
   <a href="README.md"><img alt="日本語" src="https://img.shields.io/badge/Language-日本語-222222?style=flat-square&logo=github" /></a>
@@ -14,10 +14,10 @@
 **Business-system operations experience × Java / Python development skills.**
 I care about systems that don't just ship, but **keep running reliably**.
 
-- 🛠 Hands-on experience in system operations & maintenance, incident response, and system renewal support
-- 💼 Working as a temporary staff member since October 2026
-- ☕ Studied Java (Servlet/JSP, Spring Boot) and Python in a vocational training program, and publish what I build on GitHub
-- 🔧 I enjoy turning small everyday annoyances at work into tools
+- <img src="images/icons/server-cog.svg" width="18" height="18" alt=""> Hands-on experience in system operations & maintenance, incident response, and system renewal support
+- <img src="images/icons/briefcase.svg" width="18" height="18" alt=""> Working as a temporary staff member since October 2026
+- <img src="images/icons/coffee.svg" width="18" height="18" alt=""> Studied Java (Servlet/JSP, Spring Boot) and Python in a vocational training program, and publish what I build on GitHub
+- <img src="images/icons/wrench.svg" width="18" height="18" alt=""> I enjoy turning small everyday annoyances at work into tools
 
 ---
 
@@ -35,7 +35,7 @@ and I have turned repetitive daily tasks into tools. The projects below come out
 
 ## Projects
 
-### 🚀 [Hoshi no Kiroku ("Star Record")](https://github.com/oouchi1234567890/record_of_the_stars) — JavaScript shooting game
+### <img src="images/icons/rocket.svg" width="22" height="22" alt=""> [Hoshi no Kiroku ("Star Record")](https://github.com/oouchi1234567890/record_of_the_stars) — JavaScript shooting game
 
 **[▶ Play in your browser (GitHub Pages)](https://oouchi1234567890.github.io/record_of_the_stars/)**
 
@@ -51,13 +51,13 @@ It began about 20 years ago as a vocational-school assignment, and I rebuilt it 
 
 | Project | What it is | Tech |
 | --- | --- | --- |
-| 📊 [AWS × Zabbix monitoring](https://github.com/oouchi1234567890/aws-zabbix-monitoring) | Based on my experience spotting an upcoming disk shortage in operations: monitoring, alerting, backup, and cost design. Design and procedures are done; verification on a live environment is in progress | AWS (EC2) / Zabbix / Linux |
-| 💰 [Kakeibo Tracker](https://github.com/oouchi1234567890/kakeibo-tracker) | Household budget app comparing monthly budget and actual spending, with charts, CSV export / restore, and an illustrated user guide (JA / EN) | Python / Streamlit / SQLite / pandas / Plotly |
-| 🍻 [Summer team social attendance site](https://github.com/oouchi1234567890/summer-team-social) | Web app for confirming attendance at a get-together with my training classmates. I extended a textbook example with a "delete only your own posts" feature | Java / Servlet / JSP |
-| 📁 [RenameTool](https://github.com/oouchi1234567890/rename-tool) | Batch file-renaming tool that also generates a `Restore.bat` to undo the change | Java |
-| 📗 [excel-a1-view-reset](https://github.com/oouchi1234567890/excel-a1-view-reset) | Resets every sheet of every Excel file in a folder to cell A1 and the top-left view. Works even where Java or Python isn't available | Excel VBA |
-| 📘 [Introduction to Git Version Control](https://github.com/oouchi1234567890/git-version-control-introduction) | Teaching material I wrote for people learning local Git operations for the first time. Includes hands-on exercises (first commit, branching), Japanese and English editions, and PowerPoint slides | Git / Markdown / PowerPoint |
-| 🐍 [Python cheat sheet](https://github.com/oouchi1234567890/python_cheat_sheet) | A cheat sheet I wrote that organizes common syntax and operations by purpose: strings, data structures, functions, classes, exception handling, regular expressions, and more. Comes with runnable code (`cheat_sheet.py`); JA / EN | Python / Markdown |
+| <img src="images/icons/chart-column.svg" width="18" height="18" alt=""> [AWS × Zabbix monitoring](https://github.com/oouchi1234567890/aws-zabbix-monitoring) | Based on my experience spotting an upcoming disk shortage in operations: monitoring, alerting, backup, and cost design. Design and procedures are done; verification on a live environment is in progress | AWS (EC2) / Zabbix / Linux |
+| <img src="images/icons/wallet.svg" width="18" height="18" alt=""> [Kakeibo Tracker](https://github.com/oouchi1234567890/kakeibo-tracker) | Household budget app comparing monthly budget and actual spending, with charts, CSV export / restore, and an illustrated user guide (JA / EN) | Python / Streamlit / SQLite / pandas / Plotly |
+| <img src="images/icons/beer.svg" width="18" height="18" alt=""> [Summer team social attendance site](https://github.com/oouchi1234567890/summer-team-social) | Web app for confirming attendance at a get-together with my training classmates. I extended a textbook example with a "delete only your own posts" feature | Java / Servlet / JSP |
+| <img src="images/icons/folder.svg" width="18" height="18" alt=""> [RenameTool](https://github.com/oouchi1234567890/rename-tool) | Batch file-renaming tool that also generates a `Restore.bat` to undo the change | Java |
+| <img src="images/icons/sheet.svg" width="18" height="18" alt=""> [excel-a1-view-reset](https://github.com/oouchi1234567890/excel-a1-view-reset) | Resets every sheet of every Excel file in a folder to cell A1 and the top-left view. Works even where Java or Python isn't available | Excel VBA |
+| <img src="images/icons/book-open.svg" width="18" height="18" alt=""> [Introduction to Git Version Control](https://github.com/oouchi1234567890/git-version-control-introduction) | Teaching material I wrote for people learning local Git operations for the first time. Includes hands-on exercises (first commit, branching), Japanese and English editions, and PowerPoint slides | Git / Markdown / PowerPoint |
+| <img src="images/icons/code.svg" width="18" height="18" alt=""> [Python cheat sheet](https://github.com/oouchi1234567890/python_cheat_sheet) | A cheat sheet I wrote that organizes common syntax and operations by purpose: strings, data structures, functions, classes, exception handling, regular expressions, and more. Comes with runnable code (`cheat_sheet.py`); JA / EN | Python / Markdown |
 
 ---
 
@@ -118,8 +118,8 @@ It began about 20 years ago as a vocational-school assignment, and I rebuilt it 
 <details>
 <summary>Certifications earned in 2026</summary>
 
-- ✅ Fundamental Information Technology Engineer Examination (FE) (Earned September 2026)
-- ✅ IT Passport (Earned July 2026)
+- <img src="images/icons/circle-check.svg" width="18" height="18" alt=""> Fundamental Information Technology Engineer Examination (FE) (Earned September 2026)
+- <img src="images/icons/circle-check.svg" width="18" height="18" alt=""> IT Passport (Earned July 2026)
 
 </details>
 
