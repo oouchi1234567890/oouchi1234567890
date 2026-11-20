@@ -115,10 +115,13 @@ It began about 20 years ago as a vocational-school assignment, and I rebuilt it 
 
 ## Certifications
 
-| Certification | Status |
-| --- | --- |
-| Fundamental Information Technology Engineer Examination (FE) | ✅ Earned September 2026 |
-| IT Passport | ✅ Earned July 2026 |
+<details>
+<summary>Certifications earned in 2026</summary>
+
+- ✅ Fundamental Information Technology Engineer Examination (FE) (Earned September 2026)
+- ✅ IT Passport (Earned July 2026)
+
+</details>
 
 **Earlier certifications (1993–2014)**
 
