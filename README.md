@@ -1,4 +1,4 @@
-<a href="https://oouchi1234567890.github.io/matrix-rain/"><img src="https://raw.githubusercontent.com/oouchi1234567890/matrix-rain/main/matrix.svg" width="100%" alt="Matrix rain banner"></a>
+<img src="images/sakura.svg" width="100%" alt="桜の花びらが舞うバナー">
 
 # はじめまして、大内です 👋
 
