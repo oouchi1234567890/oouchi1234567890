@@ -47,7 +47,7 @@ Java による開発・単体テストの経験もあります。
 
 | 制作物 | 内容 | 技術 |
 | --- | --- | --- |
-| <img src="images/icons/chart-column.svg" width="18" height="18" alt=""> [AWS × Zabbix 監視環境構築](https://github.com/oouchi1234567890/aws-zabbix-monitoring) | 運用業務での容量不足の予兆検知の経験をもとに、監視・通知・バックアップ・費用まで設計。設計と手順書は完了、実環境での検証を進行中 | AWS (EC2) / Zabbix / Linux |
+| <img src="images/icons/code.svg" width="18" height="18" alt=""> [情報処理・AI学習](https://github.com/oouchi1234567890/matrix-learning) | G検定・応用情報技術者試験向けの2,000項目を、重複なしのマトリックス表示で反復学習できるWebアプリ。色・速度・一時停止・日英切り替えに対応。[公開ページ](https://oouchi1234567890.github.io/matrix-learning/) | JavaScript / HTML / CSS / GitHub Pages |
 | <img src="images/icons/wallet.svg" width="18" height="18" alt=""> [Kakeibo Tracker](https://github.com/oouchi1234567890/kakeibo-tracker) | 月ごとの予算と実績を比較できる家計簿アプリ。グラフ表示、CSV 出力・復元、図解つき操作ガイド（日英） | Python / Streamlit / SQLite / pandas / Plotly |
 | <img src="images/icons/beer.svg" width="18" height="18" alt=""> [暑気払い参加確認サイト](https://github.com/oouchi1234567890/summer-team-social) | 職業訓練の仲間との食事会の参加確認用 Web アプリ。書籍の題材に「自分の投稿だけ削除できる機能」を独自に追加 | Java / Servlet / JSP |
 | <img src="images/icons/folder.svg" width="18" height="18" alt=""> [RenameTool](https://github.com/oouchi1234567890/rename-tool) | ファイル名の一括置換ツール。元に戻すための `Restore.bat` を自動生成 | Java |
