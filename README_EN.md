@@ -1,4 +1,4 @@
-<img src="images/sakura_en.svg" width="100%" alt="Cherry blossom banner">
+<img src="images/shin-sakura-cats-animated.svg" width="100%" alt="Shin, Software Engineer — banner with falling cherry blossom petals">
 
 <p align="center">
   <img src="images/profile.png" width="150" alt="Shinsuke Oouchi" />
