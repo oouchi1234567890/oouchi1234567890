@@ -35,7 +35,7 @@ Java による開発・単体テストの経験もあります。
 
 **[▶ ブラウザで遊ぶ（GitHub Pages）](https://oouchi1234567890.github.io/record_of_the_stars/)**
 
-<a href="https://oouchi1234567890.github.io/record_of_the_stars/"><img src="https://raw.githubusercontent.com/oouchi1234567890/record_of_the_stars/main/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-07-03%20175205.png" width="560" alt="星のきろく プレイ画面"></a>
+<a href="https://oouchi1234567890.github.io/record_of_the_stars/"><img src="https://raw.githubusercontent.com/oouchi1234567890/record_of_the_stars/main/assets/images/astronaut-cockpit-preview.jpg" width="560" alt="星のきろく プレイ画面"></a>
 
 地球軌道上のステーションを守るアクションシューティングです。
 約20年前の専門学校の課題を、JavaScript で一から作り直しました。

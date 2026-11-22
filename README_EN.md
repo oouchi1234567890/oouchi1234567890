@@ -39,7 +39,7 @@ and I have turned repetitive daily tasks into tools. The projects below come out
 
 **[▶ Play in your browser (GitHub Pages)](https://oouchi1234567890.github.io/record_of_the_stars/)**
 
-<a href="https://oouchi1234567890.github.io/record_of_the_stars/"><img src="https://raw.githubusercontent.com/oouchi1234567890/record_of_the_stars/main/assets/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-07-03%20175205.png" width="560" alt="Hoshi no Kiroku gameplay"></a>
+<a href="https://oouchi1234567890.github.io/record_of_the_stars/"><img src="https://raw.githubusercontent.com/oouchi1234567890/record_of_the_stars/main/assets/images/astronaut-cockpit-preview.jpg" width="560" alt="Hoshi no Kiroku gameplay"></a>
 
 An action shooter about defending a station in Earth orbit.
 It began about 20 years ago as a vocational-school assignment, and I rebuilt it from scratch in JavaScript.
