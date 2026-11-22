@@ -1,4 +1,4 @@
-<img src="images/sakura.svg" width="100%" alt="桜の花びらが舞うバナー">
+<img src="images/profile-banner-animated.webp" width="100%" alt="Hello, I'm Shin — Software Engineer with animated cherry blossom petals">
 
 # はじめまして、大内です <img src="images/icons/hand.svg" width="28" height="28" alt="">
 
